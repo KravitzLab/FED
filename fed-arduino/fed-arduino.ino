@@ -17,7 +17,7 @@
 #define FILENAME "PELLET_Cage12.csv"
 
 #define DISPLAY_SERIAL_RX_PIN 255 // we don't need a receive pin, 255 indicates this
-// Connect the Arduino pin 3 to the rx pin on the 7 segment display
+// Connect the Arduino pin 9 to the rx pin on the 7 segment display
 #define DISPLAY_SERIAL_TX_PIN 9
 
 // Photo interrupter is also the wakeup for the system
